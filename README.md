@@ -32,11 +32,6 @@ A sleek, modern financial services landing page built with React, TypeScript, an
 - 🎯 TypeScript for type safety
 - 🎨 Tailwind CSS for styling
 
-## 🖼️ Screenshots
-
-<div align="center">
-<img src="./preview.png" alt="Homepage" width="100%"/>
-</div>
 
 ## 🚀 Quick Start
 
