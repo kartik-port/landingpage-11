@@ -3,6 +3,13 @@
 # 🏦 Aura Financial
 
 ### Modern Financial Landing Page
+<img 
+  width="1910" 
+  height="902" 
+  alt="Aura Financial Preview" 
+  src="https://github.com/user-attachments/assets/352a2132-7499-47de-af88-c9f43d139471"
+/>
+
 
 ![Aura Financial Preview](<img width="1910" height="902" alt="Image" src="https://github.com/user-attachments/assets/352a2132-7499-47de-af88-c9f43d139471" />)
 
