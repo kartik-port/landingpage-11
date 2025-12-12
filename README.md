@@ -4,7 +4,7 @@
 
 ### Modern Financial Landing Page
 
-![Aura Financial Preview](./preview.png)
+![Aura Financial Preview](<img width="1910" height="902" alt="Image" src="https://github.com/user-attachments/assets/352a2132-7499-47de-af88-c9f43d139471" />)
 
 A sleek, modern financial services landing page built with React, TypeScript, and Tailwind CSS. Features smooth Lenis scrolling and stunning UI components.
 
